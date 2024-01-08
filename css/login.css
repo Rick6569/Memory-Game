@@ -15,7 +15,7 @@
 }
 
 .login-header img {
-  width: 100px;
+  width: 250px;
 }
 
 .login-header h1 {
@@ -36,7 +36,8 @@
 }
 
 .login-button {
-  background: #ee665c;
+  background: #00b5cc;
+  border: 3px solid #b2df28;
   width: 100%;
   max-width: 300px;
   padding: 15px;
@@ -48,6 +49,7 @@
 
 .login-button:disabled {
   background: #eee;
+  border: 2px solid #969595;
   color: #aaa;
   cursor: auto;
 }
